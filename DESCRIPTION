@@ -1,0 +1,10 @@
+Package: rankvote
+Type: Package
+Title: Count Ranked Ballots by Instant Runoff
+Version: 0.1.0
+Description: A command-line tool that reads ranked ballots from standard input
+    and finds the winner of an instant-runoff count, round by round.
+License: file LICENSE
+Encoding: UTF-8
+Suggests: testthat (>= 3.0.0)
+Config/testthat/edition: 3
